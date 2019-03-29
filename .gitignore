@@ -10,3 +10,14 @@ local_settings.py
 db.sqlite3
 /media
 /static
+
+
+#### PyCharm ####
+.idea/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/portfolio-project.iml
+.idea/workspace.xml
+.idea/dataSources.xml
+.idea/dataSources/
