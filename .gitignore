@@ -21,3 +21,8 @@ db.sqlite3
 .idea/workspace.xml
 .idea/dataSources.xml
 .idea/dataSources/
+
+
+
+### OTHER ####
+.DS_Store
